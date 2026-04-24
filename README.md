@@ -111,3 +111,4 @@ All tuneable parameters live in [`config.py`](config.py):
 | `GPT4O_MODEL` | `gpt-4o` | OpenAI model for stage 2 |
 | `TOP_K` | `5` | Slide chunks retrieved per segment |
 | `CHUNK_SIZE` | `512` | Characters per slide chunk |
+
